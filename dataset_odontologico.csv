@@ -1,0 +1,201 @@
+nome,data_nascimento,tipo_plano,prontuario,status_do_prontuario,especialidade,custo,tipo_consulta
+Helena Lima,1986-04-20,Integral MEI,P-72430,Aberto,Ortodontia,1657.91,Emergência
+Lucas Martins,1976-07-02,Integral MEI,P-85293,Em tratamento,Implantodontia,1253.28,Consulta de acompanhamento
+Helena Lima,1966-10-25,Integral MEI,P-87256,Aberto,Periodontia,450.24,Emergência
+Gabriel Souza,1987-12-17,Integral PME,P-94096,Em tratamento,Clínico Geral,160.65,Emergência
+Diego Costa,1961-01-10,Integral MEI,P-90923,Em tratamento,Ortodontia,953.52,Avaliação inicial
+Carlos Oliveira,1961-05-15,Master PME,P-11900,Fechado,Endodontia,1926.18,Consulta de acompanhamento
+Ana Silva,2009-02-09,Integral PME,P-85761,Em tratamento,Implantodontia,710.47,Consulta de acompanhamento
+Helena Lima,1975-08-15,Integral MEI,P-15294,Em tratamento,Periodontia,1756.15,Avaliação inicial
+Igor Mendes,1990-05-10,Master PME,P-67044,Aberto,Endodontia,282.44,Emergência
+Juliana Rocha,2005-10-04,Integral MEI,P-20032,Em tratamento,Ortodontia,1981.9,Avaliação inicial
+Ana Silva,1980-12-26,Integral PME,P-26719,Em tratamento,Periodontia,1537.56,Consulta de acompanhamento
+Rafaela Vieira,1974-11-14,Integral MEI,P-68104,Em tratamento,Endodontia,1884.73,Emergência
+Nicolas Nogueira,1967-04-02,Master PME,P-19326,Aberto,Clínico Geral,1750.65,Emergência
+Gabriel Souza,1995-12-06,Integral PME,P-78805,Aberto,Implantodontia,1442.16,Consulta de acompanhamento
+Igor Mendes,1975-09-06,Integral MEI,P-88706,Aberto,Periodontia,1248.66,Consulta de acompanhamento
+Nicolas Nogueira,1984-09-19,Integral PME,P-99473,Em tratamento,Endodontia,1611.09,Emergência
+Beatriz Santos,1985-08-06,Master PME,P-27013,Em tratamento,Periodontia,227.63,Emergência
+Beatriz Santos,1962-01-03,Integral MEI,P-15758,Fechado,Periodontia,888.0,Avaliação inicial
+Beatriz Santos,2010-06-13,Integral MEI,P-77356,Fechado,Endodontia,1572.42,Emergência
+Diego Costa,1989-01-21,Master PME,P-81900,Aberto,Endodontia,1522.32,Emergência
+Igor Mendes,1987-08-18,Master PME,P-81045,Fechado,Implantodontia,1375.74,Consulta de acompanhamento
+Diego Costa,1968-03-02,Integral PME,P-79335,Em tratamento,Implantodontia,160.78,Emergência
+Rafaela Vieira,1967-11-19,Integral MEI,P-83670,Fechado,Ortodontia,1877.95,Avaliação inicial
+Helena Lima,1990-02-04,Integral PME,P-50794,Fechado,Periodontia,1005.78,Emergência
+Igor Mendes,1988-12-25,Master PME,P-44800,Em tratamento,Ortodontia,1034.25,Consulta de acompanhamento
+Mariana Pereira,1979-03-18,Master PME,P-93682,Aberto,Implantodontia,408.36,Avaliação inicial
+Igor Mendes,1971-01-11,Integral MEI,P-22973,Em tratamento,Periodontia,1836.99,Emergência
+Diego Costa,1969-01-05,Master PME,P-85902,Fechado,Clínico Geral,310.8,Avaliação inicial
+Carlos Oliveira,1980-08-02,Integral PME,P-55214,Fechado,Ortodontia,781.21,Avaliação inicial
+Igor Mendes,1971-03-15,Integral PME,P-97433,Aberto,Clínico Geral,1516.83,Emergência
+Lucas Martins,1972-08-30,Integral PME,P-18464,Fechado,Clínico Geral,791.53,Consulta de acompanhamento
+Mariana Pereira,1983-01-16,Integral PME,P-47031,Aberto,Periodontia,1705.43,Avaliação inicial
+Rafaela Vieira,1963-05-08,Integral MEI,P-52160,Em tratamento,Clínico Geral,1754.35,Avaliação inicial
+Rafaela Vieira,1975-11-29,Integral PME,P-24998,Aberto,Periodontia,155.34,Consulta de acompanhamento
+Gabriel Souza,2002-12-03,Integral PME,P-89529,Fechado,Clínico Geral,1012.99,Consulta de acompanhamento
+Fernanda Almeida,1983-10-13,Master PME,P-39931,Fechado,Periodontia,599.82,Consulta de acompanhamento
+Gabriel Souza,1981-11-09,Integral PME,P-34270,Aberto,Ortodontia,1394.86,Consulta de acompanhamento
+Fernanda Almeida,1980-05-30,Integral MEI,P-60423,Em tratamento,Implantodontia,1378.44,Emergência
+Igor Mendes,1960-02-10,Integral MEI,P-30092,Fechado,Clínico Geral,1968.92,Consulta de acompanhamento
+Diego Costa,2003-11-03,Integral PME,P-81694,Aberto,Periodontia,1505.98,Consulta de acompanhamento
+Carlos Oliveira,1982-04-27,Master PME,P-12096,Fechado,Clínico Geral,704.95,Emergência
+Carlos Oliveira,1985-11-26,Integral PME,P-70766,Aberto,Periodontia,1166.29,Avaliação inicial
+Carlos Oliveira,1979-08-10,Master PME,P-20010,Fechado,Periodontia,1488.67,Consulta de acompanhamento
+Nicolas Nogueira,1979-09-03,Integral PME,P-60905,Aberto,Periodontia,1950.27,Consulta de acompanhamento
+Olivia Ramos,1977-03-29,Integral PME,P-20589,Em tratamento,Endodontia,1839.86,Avaliação inicial
+Igor Mendes,1979-06-23,Master PME,P-76814,Em tratamento,Ortodontia,864.39,Avaliação inicial
+Helena Lima,1968-04-18,Master PME,P-65852,Em tratamento,Ortodontia,1143.96,Avaliação inicial
+Gabriel Souza,2000-09-19,Integral MEI,P-44612,Aberto,Ortodontia,1669.31,Avaliação inicial
+Rafaela Vieira,1995-11-20,Master PME,P-74878,Fechado,Clínico Geral,813.46,Avaliação inicial
+Gabriel Souza,1992-07-18,Integral PME,P-87438,Em tratamento,Periodontia,302.31,Avaliação inicial
+Rafaela Vieira,1997-03-03,Master PME,P-33388,Em tratamento,Implantodontia,667.46,Avaliação inicial
+Helena Lima,1981-10-22,Integral MEI,P-91914,Fechado,Clínico Geral,295.27,Consulta de acompanhamento
+Ana Silva,2007-03-26,Integral MEI,P-60176,Fechado,Implantodontia,773.49,Emergência
+Lucas Martins,1989-01-27,Master PME,P-52751,Aberto,Implantodontia,266.04,Consulta de acompanhamento
+Juliana Rocha,2009-10-18,Master PME,P-47563,Fechado,Clínico Geral,1824.44,Consulta de acompanhamento
+Carlos Oliveira,1970-05-13,Integral MEI,P-46626,Fechado,Ortodontia,1295.61,Emergência
+Lucas Martins,2010-06-16,Integral PME,P-85665,Aberto,Periodontia,927.77,Consulta de acompanhamento
+Olivia Ramos,1970-09-17,Integral MEI,P-41886,Fechado,Periodontia,1592.93,Consulta de acompanhamento
+Nicolas Nogueira,2002-09-10,Integral PME,P-95677,Fechado,Clínico Geral,1764.97,Consulta de acompanhamento
+Mariana Pereira,2000-01-22,Integral MEI,P-92545,Fechado,Endodontia,811.15,Emergência
+Carlos Oliveira,1994-07-19,Integral PME,P-76656,Fechado,Clínico Geral,1607.64,Avaliação inicial
+Gabriel Souza,1996-05-02,Integral PME,P-25002,Fechado,Implantodontia,511.94,Avaliação inicial
+Helena Lima,1984-01-25,Integral PME,P-43288,Aberto,Clínico Geral,1840.79,Avaliação inicial
+Helena Lima,1976-04-26,Integral PME,P-38743,Aberto,Endodontia,1145.71,Avaliação inicial
+Diego Costa,2001-04-26,Master PME,P-82148,Aberto,Clínico Geral,1646.64,Avaliação inicial
+Rafaela Vieira,1991-12-05,Master PME,P-74912,Fechado,Clínico Geral,1843.08,Emergência
+Ana Silva,1991-07-07,Integral MEI,P-29285,Fechado,Implantodontia,676.4,Avaliação inicial
+Helena Lima,2003-12-10,Integral MEI,P-31963,Aberto,Endodontia,1089.55,Emergência
+Helena Lima,1979-12-17,Integral MEI,P-43338,Aberto,Ortodontia,1547.95,Emergência
+Nicolas Nogueira,2010-02-05,Integral PME,P-13258,Fechado,Endodontia,1767.67,Consulta de acompanhamento
+Lucas Martins,1962-09-28,Integral PME,P-21175,Aberto,Endodontia,913.15,Avaliação inicial
+Olivia Ramos,1969-06-15,Master PME,P-27497,Aberto,Endodontia,1441.71,Emergência
+Lucas Martins,2000-02-19,Integral MEI,P-92040,Aberto,Periodontia,1292.06,Avaliação inicial
+Lucas Martins,2010-05-28,Integral MEI,P-40533,Em tratamento,Endodontia,1544.18,Consulta de acompanhamento
+Ana Silva,1992-03-05,Master PME,P-96216,Fechado,Ortodontia,376.23,Avaliação inicial
+Olivia Ramos,1985-10-03,Integral PME,P-65725,Fechado,Periodontia,1246.19,Emergência
+Paulo Cardoso,1978-07-02,Integral MEI,P-90548,Fechado,Implantodontia,350.08,Avaliação inicial
+Juliana Rocha,1994-08-10,Master PME,P-28813,Em tratamento,Clínico Geral,1206.83,Avaliação inicial
+Lucas Martins,1975-11-03,Integral MEI,P-43800,Aberto,Implantodontia,316.03,Emergência
+Carlos Oliveira,1978-11-19,Integral PME,P-93949,Fechado,Periodontia,1712.89,Emergência
+Gabriel Souza,1990-10-03,Integral PME,P-68511,Em tratamento,Periodontia,1863.53,Emergência
+Fernanda Almeida,1974-05-11,Integral PME,P-26079,Fechado,Clínico Geral,913.42,Emergência
+Olivia Ramos,1989-11-10,Integral PME,P-22170,Fechado,Periodontia,1152.69,Consulta de acompanhamento
+Beatriz Santos,1963-10-12,Master PME,P-48217,Fechado,Implantodontia,634.16,Avaliação inicial
+Igor Mendes,1990-11-11,Integral MEI,P-55366,Em tratamento,Ortodontia,1685.72,Consulta de acompanhamento
+Carlos Oliveira,1963-01-22,Master PME,P-44660,Aberto,Periodontia,346.62,Avaliação inicial
+Carlos Oliveira,1975-04-30,Integral PME,P-69571,Aberto,Implantodontia,1010.7,Emergência
+Fernanda Almeida,1981-11-05,Integral PME,P-91897,Aberto,Periodontia,608.51,Consulta de acompanhamento
+Igor Mendes,2006-02-09,Integral MEI,P-94486,Fechado,Endodontia,702.01,Emergência
+Mariana Pereira,2005-08-05,Integral MEI,P-82197,Aberto,Endodontia,1565.82,Emergência
+Igor Mendes,1979-06-20,Master PME,P-77796,Aberto,Clínico Geral,205.44,Avaliação inicial
+Carlos Oliveira,1965-05-21,Integral PME,P-98326,Fechado,Ortodontia,853.76,Consulta de acompanhamento
+Nicolas Nogueira,1985-03-04,Integral PME,P-41349,Aberto,Clínico Geral,929.76,Consulta de acompanhamento
+Beatriz Santos,1988-04-18,Master PME,P-55753,Em tratamento,Clínico Geral,1994.72,Emergência
+Helena Lima,2008-04-16,Master PME,P-73573,Aberto,Endodontia,1498.94,Consulta de acompanhamento
+Carlos Oliveira,1984-02-04,Integral PME,P-38285,Fechado,Implantodontia,448.38,Emergência
+Paulo Cardoso,1998-03-29,Master PME,P-57953,Em tratamento,Endodontia,1302.77,Emergência
+Mariana Pereira,1995-01-06,Master PME,P-36022,Em tratamento,Ortodontia,542.25,Consulta de acompanhamento
+Rafaela Vieira,2006-12-18,Master PME,P-52171,Fechado,Ortodontia,1289.61,Consulta de acompanhamento
+Paulo Cardoso,1963-11-10,Integral PME,P-77765,Aberto,Clínico Geral,1435.27,Avaliação inicial
+Helena Lima,1987-09-06,Master PME,P-49784,Aberto,Implantodontia,1634.42,Consulta de acompanhamento
+Fernanda Almeida,1994-03-12,Master PME,P-88089,Em tratamento,Periodontia,513.82,Consulta de acompanhamento
+Gabriel Souza,2008-07-28,Integral MEI,P-11250,Fechado,Clínico Geral,1987.39,Emergência
+Diego Costa,2005-03-30,Master PME,P-38820,Em tratamento,Endodontia,401.4,Consulta de acompanhamento
+Diego Costa,1964-12-15,Integral MEI,P-27283,Fechado,Implantodontia,1360.06,Consulta de acompanhamento
+Rafaela Vieira,1984-02-08,Master PME,P-80016,Aberto,Endodontia,1317.19,Avaliação inicial
+Gabriel Souza,2001-12-19,Integral PME,P-46395,Em tratamento,Periodontia,529.23,Consulta de acompanhamento
+Mariana Pereira,1963-04-22,Master PME,P-47449,Em tratamento,Periodontia,1349.96,Emergência
+Carlos Oliveira,2001-05-01,Integral PME,P-71429,Em tratamento,Endodontia,1371.74,Avaliação inicial
+Gabriel Souza,1979-05-12,Integral MEI,P-62443,Aberto,Ortodontia,1721.38,Emergência
+Diego Costa,1964-07-25,Integral MEI,P-19259,Aberto,Periodontia,1369.45,Avaliação inicial
+Lucas Martins,1975-09-15,Integral PME,P-55907,Fechado,Periodontia,1331.39,Consulta de acompanhamento
+Ana Silva,1962-01-14,Integral MEI,P-76228,Fechado,Endodontia,250.62,Avaliação inicial
+Olivia Ramos,1988-05-16,Integral MEI,P-64521,Fechado,Endodontia,1735.84,Emergência
+Carlos Oliveira,1993-12-12,Master PME,P-15721,Fechado,Ortodontia,1541.78,Avaliação inicial
+Gabriel Souza,1979-01-09,Integral PME,P-82452,Em tratamento,Implantodontia,436.26,Consulta de acompanhamento
+Ana Silva,1980-09-06,Integral PME,P-88136,Aberto,Periodontia,476.78,Avaliação inicial
+Paulo Cardoso,1993-02-22,Integral MEI,P-28395,Fechado,Clínico Geral,388.19,Emergência
+Ana Silva,1998-03-23,Master PME,P-74984,Em tratamento,Clínico Geral,629.16,Emergência
+Carlos Oliveira,1995-04-18,Integral PME,P-18622,Em tratamento,Endodontia,668.94,Emergência
+Fernanda Almeida,1996-05-05,Master PME,P-18048,Aberto,Clínico Geral,1734.36,Emergência
+Carlos Oliveira,1968-03-25,Integral MEI,P-60204,Fechado,Endodontia,465.9,Avaliação inicial
+Juliana Rocha,1981-12-09,Master PME,P-27639,Aberto,Endodontia,616.55,Emergência
+Carlos Oliveira,1977-06-28,Master PME,P-71320,Aberto,Periodontia,1081.45,Emergência
+Rafaela Vieira,1992-09-06,Integral PME,P-25953,Aberto,Implantodontia,601.77,Avaliação inicial
+Diego Costa,1983-04-01,Integral PME,P-36528,Aberto,Periodontia,862.95,Consulta de acompanhamento
+Beatriz Santos,1960-06-07,Master PME,P-21409,Aberto,Ortodontia,724.41,Avaliação inicial
+Carlos Oliveira,1984-09-08,Master PME,P-67167,Em tratamento,Periodontia,1742.17,Avaliação inicial
+Fernanda Almeida,1979-02-11,Integral PME,P-15669,Fechado,Endodontia,1899.07,Avaliação inicial
+Carlos Oliveira,2007-02-17,Integral MEI,P-54650,Fechado,Clínico Geral,945.59,Consulta de acompanhamento
+Paulo Cardoso,2010-10-26,Integral MEI,P-83390,Em tratamento,Periodontia,1143.8,Avaliação inicial
+Helena Lima,1968-06-05,Master PME,P-80599,Fechado,Ortodontia,308.84,Consulta de acompanhamento
+Lucas Martins,1973-07-29,Integral MEI,P-37946,Em tratamento,Ortodontia,100.7,Avaliação inicial
+Lucas Martins,1977-11-18,Master PME,P-70187,Fechado,Ortodontia,1378.31,Consulta de acompanhamento
+Nicolas Nogueira,1997-06-24,Integral PME,P-63814,Fechado,Clínico Geral,1956.31,Avaliação inicial
+Olivia Ramos,1967-02-06,Integral MEI,P-72787,Aberto,Periodontia,1766.45,Consulta de acompanhamento
+Ana Silva,1989-01-24,Integral MEI,P-28143,Aberto,Implantodontia,150.62,Consulta de acompanhamento
+Fernanda Almeida,2005-07-18,Integral MEI,P-73049,Em tratamento,Ortodontia,849.69,Emergência
+Lucas Martins,1985-03-23,Integral PME,P-35988,Fechado,Ortodontia,255.28,Emergência
+Lucas Martins,1985-11-03,Integral PME,P-50427,Aberto,Ortodontia,665.76,Consulta de acompanhamento
+Igor Mendes,1977-07-20,Master PME,P-33951,Aberto,Ortodontia,985.08,Avaliação inicial
+Nicolas Nogueira,1993-02-18,Integral MEI,P-59738,Aberto,Periodontia,726.31,Avaliação inicial
+Carlos Oliveira,1981-09-17,Integral MEI,P-81125,Em tratamento,Implantodontia,1791.32,Avaliação inicial
+Lucas Martins,1991-04-11,Integral PME,P-16160,Em tratamento,Ortodontia,1505.31,Avaliação inicial
+Beatriz Santos,1970-06-13,Integral MEI,P-14378,Aberto,Endodontia,1016.05,Emergência
+Beatriz Santos,2000-09-14,Integral PME,P-69240,Em tratamento,Periodontia,1403.15,Avaliação inicial
+Diego Costa,2003-08-11,Master PME,P-17806,Aberto,Periodontia,1243.52,Avaliação inicial
+Diego Costa,1976-08-16,Master PME,P-45509,Fechado,Periodontia,297.39,Emergência
+Carlos Oliveira,1989-11-02,Integral MEI,P-20150,Fechado,Ortodontia,1402.48,Avaliação inicial
+Lucas Martins,2006-06-14,Integral MEI,P-51573,Em tratamento,Endodontia,917.19,Emergência
+Beatriz Santos,1978-08-02,Master PME,P-28368,Fechado,Ortodontia,1259.16,Avaliação inicial
+Diego Costa,1973-09-24,Integral PME,P-25457,Aberto,Clínico Geral,1293.94,Avaliação inicial
+Igor Mendes,2007-01-20,Integral PME,P-42259,Aberto,Endodontia,192.08,Emergência
+Diego Costa,2007-04-10,Integral PME,P-40866,Fechado,Periodontia,170.7,Emergência
+Gabriel Souza,1995-05-16,Integral PME,P-12482,Fechado,Clínico Geral,493.29,Emergência
+Juliana Rocha,1990-06-30,Master PME,P-84201,Aberto,Endodontia,1813.56,Emergência
+Juliana Rocha,1967-07-03,Master PME,P-24496,Fechado,Implantodontia,888.15,Consulta de acompanhamento
+Helena Lima,2007-09-09,Integral PME,P-97233,Aberto,Ortodontia,1143.01,Emergência
+Nicolas Nogueira,1985-05-21,Master PME,P-66420,Fechado,Endodontia,207.93,Avaliação inicial
+Rafaela Vieira,2007-12-08,Integral MEI,P-46003,Em tratamento,Endodontia,401.04,Emergência
+Paulo Cardoso,2004-07-30,Master PME,P-79565,Aberto,Clínico Geral,722.45,Emergência
+Beatriz Santos,1968-04-04,Integral MEI,P-42471,Fechado,Implantodontia,414.78,Avaliação inicial
+Olivia Ramos,1996-05-09,Integral PME,P-15866,Aberto,Endodontia,764.98,Consulta de acompanhamento
+Rafaela Vieira,1969-05-22,Master PME,P-71414,Em tratamento,Clínico Geral,798.3,Avaliação inicial
+Igor Mendes,1985-05-24,Master PME,P-38367,Em tratamento,Periodontia,1210.11,Emergência
+Beatriz Santos,1977-08-17,Integral MEI,P-60612,Aberto,Endodontia,1166.92,Emergência
+Carlos Oliveira,1986-12-31,Master PME,P-78815,Em tratamento,Periodontia,1523.04,Avaliação inicial
+Lucas Martins,2001-07-14,Integral MEI,P-33284,Fechado,Periodontia,1154.22,Emergência
+Helena Lima,1969-08-29,Integral MEI,P-28618,Fechado,Ortodontia,1910.87,Consulta de acompanhamento
+Helena Lima,2009-09-18,Integral PME,P-91535,Aberto,Ortodontia,714.95,Emergência
+Gabriel Souza,2005-02-18,Integral PME,P-17317,Aberto,Endodontia,497.78,Consulta de acompanhamento
+Beatriz Santos,1990-11-06,Integral PME,P-95285,Fechado,Endodontia,631.85,Emergência
+Beatriz Santos,1996-05-16,Integral MEI,P-17286,Em tratamento,Clínico Geral,1602.09,Emergência
+Fernanda Almeida,1997-01-12,Master PME,P-74721,Aberto,Periodontia,1141.09,Consulta de acompanhamento
+Carlos Oliveira,1998-11-10,Master PME,P-22302,Em tratamento,Ortodontia,1758.79,Avaliação inicial
+Fernanda Almeida,1969-01-21,Master PME,P-47364,Fechado,Endodontia,1556.91,Avaliação inicial
+Olivia Ramos,1989-05-21,Integral MEI,P-37725,Aberto,Implantodontia,1602.6,Emergência
+Mariana Pereira,1979-11-05,Integral MEI,P-38748,Fechado,Implantodontia,1817.21,Avaliação inicial
+Lucas Martins,1977-03-21,Integral MEI,P-86706,Fechado,Periodontia,1482.5,Emergência
+Ana Silva,1969-04-09,Integral MEI,P-68083,Em tratamento,Endodontia,202.59,Avaliação inicial
+Nicolas Nogueira,1962-05-19,Master PME,P-80363,Aberto,Endodontia,829.96,Emergência
+Diego Costa,1996-01-06,Integral MEI,P-18952,Fechado,Implantodontia,626.26,Emergência
+Fernanda Almeida,1971-12-20,Master PME,P-48014,Em tratamento,Ortodontia,1936.88,Avaliação inicial
+Diego Costa,1996-04-06,Integral MEI,P-58867,Fechado,Periodontia,1996.22,Avaliação inicial
+Mariana Pereira,1975-10-21,Integral MEI,P-80477,Em tratamento,Periodontia,1958.31,Emergência
+Mariana Pereira,1971-09-24,Integral PME,P-98583,Aberto,Endodontia,950.75,Consulta de acompanhamento
+Mariana Pereira,2006-12-24,Integral MEI,P-66004,Aberto,Ortodontia,895.61,Emergência
+Nicolas Nogueira,2001-08-31,Integral MEI,P-66691,Aberto,Implantodontia,730.41,Consulta de acompanhamento
+Ana Silva,2003-07-01,Master PME,P-34997,Fechado,Clínico Geral,1962.54,Avaliação inicial
+Gabriel Souza,1988-04-14,Integral MEI,P-63306,Aberto,Periodontia,1638.11,Avaliação inicial
+Nicolas Nogueira,1991-09-21,Master PME,P-35845,Aberto,Periodontia,1051.29,Avaliação inicial
+Fernanda Almeida,1995-12-29,Integral MEI,P-97590,Aberto,Endodontia,1531.58,Avaliação inicial
+Diego Costa,1997-06-19,Integral PME,P-93695,Fechado,Endodontia,206.2,Emergência
+Igor Mendes,1999-09-07,Integral PME,P-87391,Aberto,Ortodontia,411.99,Avaliação inicial
+Gabriel Souza,2004-02-09,Integral MEI,P-25640,Em tratamento,Implantodontia,1841.08,Emergência
+Fernanda Almeida,2001-10-14,Integral MEI,P-13368,Fechado,Endodontia,585.72,Emergência
+Lucas Martins,1987-10-15,Integral MEI,P-28551,Em tratamento,Endodontia,928.27,Avaliação inicial
+Nicolas Nogueira,1993-09-12,Master PME,P-30053,Em tratamento,Periodontia,1843.92,Emergência
+Juliana Rocha,2002-06-14,Master PME,P-17568,Em tratamento,Clínico Geral,1948.77,Consulta de acompanhamento
+Lucas Martins,1994-08-24,Master PME,P-78704,Em tratamento,Endodontia,600.84,Consulta de acompanhamento
