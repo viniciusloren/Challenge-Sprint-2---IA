@@ -6,7 +6,7 @@
 - **Marcelo Galli** - RM: 553654
 
 ### Vídeo
-[Link do vídeo](https://www.youtube.com/watch?v=1a_hPloqQAA)](#)
+[Link do vídeo](https://www.youtube.com/watch?v=1a_hPloqQAA)
 
 ## Tema
 O tema escolhido para o nosso projeto foi: **Prevenção de Sinistros em Odontologia com Análise Preditiva**.
